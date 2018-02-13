@@ -1,0 +1,20 @@
+body{
+	background-image: url('foto.jpg');
+	background-size: cover;
+}
+ul{
+	list-style: none;
+}
+a{
+	display: block;
+	text-decoration: none;
+	color: green;
+	background-color: wheat;
+	background-size: cover;
+}
+li{
+	float: left;
+	/*margin: 120px;*/
+	position: relative;
+	/*margin-top: 50px;*/
+}

@@ -1,0 +1,30 @@
+/*.block1{
+	height: 200px;
+	width: 200px;
+	background-color: black;
+	transform: translate(500px,500px);
+}
+.block2{
+	height: 200px;
+	width: 200px;
+	background-color: red;
+	transform: translateY(200px);
+}*/
+.block3{
+	height: 200px;
+	width: 200px;
+	background-color: green;
+	transform: translate(50px,50px) rotate(270grad);
+}
+.block4{
+	height: 100px;
+	width: 100px;
+	background-color: red;
+/*	transform: scale(2);*/
+}
+.block4:hover{
+	transform: translate(100px,100px);
+}
+.block4:hover{
+	transform: rotate(180grad);
+}

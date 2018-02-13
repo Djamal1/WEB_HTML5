@@ -1,0 +1,17 @@
+div{
+	height: 100px;
+	width: 100px;
+	background-color: red;
+	position: absolute;
+	left: 10px;
+	transition-property: height width /*left*/;
+}
+div:hover{
+	/*-webkit-*/transition: width 5s ease-in-out;
+	height: 1000px;
+	width: 1000px;
+/*	left: 500px; 
+	transition-duration: 10s;
+	transition-delay: 3s;
+	transition-timing-function: ease-in-out; /*linear*/;
+}

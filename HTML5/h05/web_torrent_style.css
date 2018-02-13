@@ -1,0 +1,35 @@
+body{
+	background-image: url(foto.png);
+	background-size: cover;
+}
+h1{
+	color: red;
+	text-align: center;
+}
+h2{
+	color: yellow;
+}
+.a{
+	color: red;
+}
+.b{
+	color: blue;
+}
+.s{
+	color: orange;
+	font-size: 20px;
+}
+.n{
+	color: wheat;
+}
+a.play{
+	display: block;
+	background-image: url(knopka-skachat.png);
+	background-size: cover;
+	height: 100px;
+	width: 300px;
+}
+.GG{
+	color: gray;
+	font-size: 30px; 
+}

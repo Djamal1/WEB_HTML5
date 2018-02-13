@@ -1,0 +1,36 @@
+div{
+	height: 150px;
+	width: 150px;
+}
+.me{
+	background-color: #000ff6;
+	position: absolute;
+	left: 10px;
+	top: 10px;
+}
+.me2{
+	background-color: #011ff6;
+	position: absolute;
+	left: 500px;
+	top: 10px;
+}
+.me3{
+	background-color: #045ff6;
+	position: absolute;
+	left: 1000px;
+	top: 10px;
+}
+.me4{
+	background-color: #ff0ff6;
+	position: absolute;
+	left: 500px;
+	top: 400px;
+}
+.a{display: block;
+	height: 150px;
+	width: 150px;
+	position: absolute;
+	right: 10px;
+	top: 15px;
+	background-color: #00f564
+}
